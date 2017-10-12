@@ -10,7 +10,7 @@
         ],
         "module": "commonjs",
         "moduleResolution": "node",
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         "sourceMap": true,
         "target": "es5",
         "typeRoots": [
