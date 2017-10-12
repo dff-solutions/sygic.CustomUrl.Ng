@@ -1,6 +1,6 @@
 {
   "name": "sygic-custom-url-ng",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "sygic custom url ng wrapper",
   "main": "./dist/umd/sygic-custom-url-ng.js",
   "module": "dist/esm/index.js",
