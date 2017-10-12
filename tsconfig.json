@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "allowSyntheticDefaultImports": true,
-        "declaration": false,
+        "declaration": true,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "lib": [
@@ -10,16 +10,13 @@
         ],
         "module": "commonjs",
         "moduleResolution": "node",
-        "noImplicitAny": false,
+        "noImplicitAny": true,
         "sourceMap": true,
         "target": "es5",
         "typeRoots": [
             "node_modules/@types"
         ]
     },
-    "include": [
-        "src/**/*.ts"
-    ],
     "exclude": [
         "node_modules",
         "config",
@@ -27,5 +24,8 @@
         "dist",
         "tmp",
         "**/*.spec.ts"
+    ],
+    "files": [
+        "src/index.ts"
     ]
 }

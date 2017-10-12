@@ -10,11 +10,11 @@
         "pretty": true,
         "stripInternal": true,
         "skipLibCheck": true,
-        "outDir": "../dist/esm"
+        "outDir": "../dist"
     },
     "angularCompilerOptions": {
-        "genDir": "dist",
-        "debug": false,
+        "genDir": "../dist",
+        "debug": true,
         "skipTemplateCodegen": true,
         "skipMetadataEmit": false,
         "strictMetadataEmit": true
