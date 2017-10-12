@@ -70,11 +70,11 @@
     "webpack-angular-externals": "^1.0.2",
     "webpack-rxjs-externals": "^1.0.0"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@angular/common": "^4.4.4",
     "@angular/core": "^4.4.4",
     "rxjs": "^5.4.3",
-    "sygic-custom-url": "^1.0.5",
+    "sygic-custom-url": "^1.0.7",
     "zone.js": "^0.8.18"
   }
 }
