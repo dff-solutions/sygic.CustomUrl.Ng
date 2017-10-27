@@ -1,6 +1,6 @@
 {
   "name": "sygic-custom-url-ng",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "sygic custom url ng wrapper",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
